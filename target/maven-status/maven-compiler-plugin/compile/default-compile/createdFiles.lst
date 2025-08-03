@@ -1,0 +1,4 @@
+com\ejemplo\autenticacion\config\I18nConfig.class
+com\ejemplo\autenticacion\config\SecurityConfig.class
+com\ejemplo\autenticacion\AutenticacionApplication.class
+com\ejemplo\autenticacion\controller\HomeController.class
